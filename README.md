@@ -33,7 +33,7 @@ Import to Xcode and Simulate on your Device.
 
 ## Features
 TODOs for future development:
-* Game Level- Hardness Concept
+* Internet Connection status
 
 ## Status
 Project is: _in progress
