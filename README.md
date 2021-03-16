@@ -18,9 +18,7 @@ In this project i had use WebKit framework to port in iOS our's company aplicati
 
 ## Screenshots
 ![Example Screenshot1](./Screenshots/1.png)
-![Example Screenshot1](./Screenshots/2.png)
-![Example Screenshot1](./Screenshots/3.png)
-![Example Screenshot1](./Screenshots/4.png)
+
 
 ## Technologies
 * Tech 1 - version 1.0
