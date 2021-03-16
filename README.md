@@ -17,7 +17,7 @@
 In this project i had use WebKit framework to port in iOS our's company aplication, for Wedding manegment.
 
 ## Screenshots
-![Example Screenshot1](./Screenshots/1.png)
+![Example Screenshot1](./Screenshots/Screenshot.png)
 
 
 ## Technologies
